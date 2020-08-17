@@ -1,1 +1,13 @@
-Replace this with a list of your favorite things.
+# Programming Languages
+- Python
+- JavaScript
+- SQL
+- Unix
+- HTML
+
+# Skills
++ Django
++ Scrum
++ Git
++ Problem solving
++ Css
